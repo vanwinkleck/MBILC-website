@@ -7,4 +7,4 @@ As a summary of the project, for a theology class two classmates and I spent a s
 
 As for the website, it was a pretty straightforward project. Mostly using HTML and CSS3, with only a smidge of javascript thrown in. 
 
-
+Most of my own edits were made in the original CSS file, which needed to be changed to fit the project. Mostly minor things such as changing padding and margins, but also some intricate work such as adding better compatibility for screens larger than 1080p. 
